@@ -11,6 +11,8 @@
 - npm i -D nodemon
 | --save-dev ou -D serve para especificar que são dependencias necessárias apenas durante o desenvolvimento |
 
+- npm run serve
+
 
 # Explicando Scripts
 
